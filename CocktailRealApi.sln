@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.645
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CocktailRealApi", "CocktailRealApi\CocktailRealApi.csproj", "{D0D0E471-3256-4F32-921B-EE08460F3191}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiClientConsoleApp", "ApiClientConsoleApp\ApiClientConsoleApp.csproj", "{E569055A-54CE-47F5-B614-D4972547F601}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D0D0E471-3256-4F32-921B-EE08460F3191}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0D0E471-3256-4F32-921B-EE08460F3191}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0D0E471-3256-4F32-921B-EE08460F3191}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0D0E471-3256-4F32-921B-EE08460F3191}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E569055A-54CE-47F5-B614-D4972547F601}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E569055A-54CE-47F5-B614-D4972547F601}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E569055A-54CE-47F5-B614-D4972547F601}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E569055A-54CE-47F5-B614-D4972547F601}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1E28B018-B6E9-4862-9E0C-ECEA8BACF662}
+	EndGlobalSection
+EndGlobal
